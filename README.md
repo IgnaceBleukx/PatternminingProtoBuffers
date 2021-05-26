@@ -24,12 +24,9 @@ So if a class has no children, the result is still a list containing 1 item: the
 ## Dataset titles
 The datasets all have the same structured file name:
 
-## Some statistics
-All datasets are generated with the following parameters:
-* Number of objects between 1 and 3
-* Number of attributes between 5 and 10
-* Fields are filled from R-datasets \todo{link_r_datasets}
-* 10 classes per level
-* 50 instances per class per level
+## Generation process
+The files are generated using the following algorithm:
+TODO: insert screenshot of algorithm 4
 
-This set of parameters results in a 500 unique messages for each level!
+## File name structure
+!<img src="https://bit.ly/34m4Oaw" align="center" border="0" alt="dataset\_[n_{decl}]c\_[n_{inst}]inst\_fprob[probability]\_depth[depth].pickle" width="592" height="19" />
