@@ -29,4 +29,4 @@ The files are generated using the following algorithm:
 TODO: insert screenshot of algorithm 4
 
 ## File name structure
-!<img src="https://bit.ly/34m4Oaw" align="center" border="0" alt="dataset\_[n_{decl}]c\_[n_{inst}]inst\_fprob[probability]\_depth[depth].pickle" width="592" height="19" />
+<img src="https://bit.ly/34m4Oaw" align="center" border="0" alt="dataset\_[n_{decl}]c\_[n_{inst}]inst\_fprob[probability]\_depth[depth].pickle" width="592" height="19" />
