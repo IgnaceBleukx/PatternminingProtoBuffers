@@ -32,4 +32,4 @@ TODO: insert screenshot of algorithm 4
 <img src="https://bit.ly/34m4Oaw" align="center" border="0" alt="dataset\_[n_{decl}]c\_[n_{inst}]inst\_fprob[probability]\_depth[depth].pickle" width="592" height="19" />
 
 ## Link to datasets
-All datasets can be downloaded via the following [link]{https://www.dropbox.com/sh/4wc3dqwl2bko447/AACaBql3TYvxtHgsdH15ntPwa?dl=0}
+All datasets can be downloaded via the following [link](https://www.dropbox.com/sh/4wc3dqwl2bko447/AACaBql3TYvxtHgsdH15ntPwa?dl=0)
